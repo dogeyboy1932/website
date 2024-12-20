@@ -31,10 +31,5 @@
 
 
 <style>
-    .dosis {
-		font-family: "Dosis", serif;
-		font-optical-sizing: auto;
-		font-weight: 500;
-		font-style: normal;
-	}
+
 </style>

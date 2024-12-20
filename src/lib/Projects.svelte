@@ -1,6 +1,5 @@
 <script lang="ts">
 	import { projectsData } from '../constants/projects';
-	import type { ProjectData } from '../types';
 </script>
 
 <div class="grid grid-cols-1 gap-3 sm:gap-y-6">
@@ -27,10 +26,5 @@
 </div>
 
 <style>
-    .dosis {
-		font-family: "Dosis", serif;
-		font-optical-sizing: auto;
-		font-weight: 500;
-		font-style: normal;
-	}
+    
 </style>
