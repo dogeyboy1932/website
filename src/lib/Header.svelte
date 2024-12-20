@@ -26,9 +26,11 @@
 		
 		<div class="flex items-center space-x-2">
 			<div class="hidden space-x-3 text-sm md:block">
-				<a href="#about-me" class="hover:underline">About Me</a>
+				<!-- <a href="#about-me" class="hover:underline">About Me</a>s -->
 				<a href="#experience" class="hover:underline">Experience</a>
-				<a href="#past-hackathons" class="hover:underline">Skills</a>
+				<a href="#projects" class="hover:underline">Experience</a>
+				<a href="#skills" class="hover:underline">Skills</a>
+				<a href="#other" class="hover:underline">Other</a>
 				<a href="#links" class="hover:underline">Links</a>
 			</div>
 			<ThemeToggle />
