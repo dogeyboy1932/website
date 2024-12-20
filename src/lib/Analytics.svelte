@@ -1,3 +1,4 @@
+<!-- GOOGLE ANALYTICS -->
 <script lang="ts">
 	import { page } from '$app/stores';
 

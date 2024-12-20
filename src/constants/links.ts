@@ -3,31 +3,25 @@ import type { CustomLink } from '../types';
 export const links: CustomLink[] = [
 	{
 		platform: 'Github',
-		title: 'marcuspang',
-		href: 'https://github.com/marcuspang',
+		title: 'dogeyboy1932',
+		href: 'https://github.com/dogeyboy1932',
 		isExternal: true
 	},
 	{
 		platform: 'ENS',
 		title: 'marcuspang.eth',
-		href: 'https://etherscan.io/address/0x7730B4Cdc1B1E7a33A309AB7205411faD009C106',
+		href: 'https://etherscan.io/address/0x962d465a0E3CB3656A3fD5143C8A17a394f459b1',
 		isExternal: true
 	},
 	{
 		platform: 'LinkedIn',
-		title: 'marcus-pang-yu-yang',
-		href: 'https://linkedin.com/in/marcus-pang-yu-yang',
-		isExternal: true
-	},
-	{
-		platform: 'Blog (Paragraph)',
-		title: '@marcuspang',
-		href: 'https://paragraph.xyz/@marcuspang',
+		title: 'gvAkhil',
+		href: 'https://www.linkedin.com/in/gvAkhil/',
 		isExternal: true
 	},
 	{
 		platform: 'Email',
-		title: 'marcuspangyuyang@gmail.com',
-		href: 'mailto:marcuspangyuyang@gmail.com'
+		title: 'vagogineni@gmail.com',
+		href: 'mailto:vagogineni@gmail.com'
 	}
 ];

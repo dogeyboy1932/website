@@ -18,16 +18,17 @@
 	}
 </script>
 
-<header class="mb-4 bg-transparent">
-	<div class="flex justify-between max-w-xl py-2 mx-auto">
+<header class="m-1 bg-transparent">
+	<div class="flex justify-between max-w-xl py-2 mx-5">
 		<a href="/" class="flex items-center">
 			<Logo class="w-10 h-10 transition-opacity hover:opacity-80" />
 		</a>
+		
 		<div class="flex items-center space-x-2">
 			<div class="hidden space-x-3 text-sm md:block">
 				<a href="#about-me" class="hover:underline">About Me</a>
 				<a href="#experience" class="hover:underline">Experience</a>
-				<a href="#past-hackathons" class="hover:underline">Hackathons</a>
+				<a href="#past-hackathons" class="hover:underline">Skills</a>
 				<a href="#links" class="hover:underline">Links</a>
 			</div>
 			<ThemeToggle />
@@ -47,5 +48,22 @@
 				<Button on:click={() => goto('/auth/signin')} variant="outline">Sign In</Button>
 			{/if} -->
 		</div>
+		
 	</div>
+
+
+	<!-- TITLE NAME -->
+
+	<div class="dark:border-2 dark:border-t-0 dark:border-gray-400 border-black border-2 border-t-0">
+		<h1 class="flex justify-center font-sans md:font-serif text-3xl tracking-tight text-primary dark:text-yellow-600">
+			Akhil Gogineni
+		</h1>
+		
+		<h2 class="flex justify-center">
+			Determined to stay ahead of the curve 🔥
+		</h2>
+		
+	</div>
+
+
 </header>
